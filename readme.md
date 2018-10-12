@@ -6,6 +6,16 @@ It is based on the bundle http://code.google.com/p/oracle-textmate-bundle/
 
 ## Install
 
+### Install with Package Control
+
+Install and configure [Package Control](https://packagecontrol.io/installation), if you haven't already done so, then:
+
+- **CTRL+SHIFT+P** → **Package Control: Add Repository**
+- Add the following URL: `https://github.com/frenchesco/OracleSQL.git`
+- **CTRL+SHIFT+P** → **Package Control: Install Package** → **OracleSQL**
+
+### Manual Install
+
 - Download and extract package. Rename folder from *Oracle-master* to *OracleSQL* and place in `%APPDATA%\Sublime Text 3\Packages` for a normal installation or `SublimeText3\Data\Packages` for a portable installation.
 - Install keymaps for the commands (see Example.sublime-keymap for my preferred keys)
 
